@@ -34,7 +34,7 @@ require (
 	github.com/onsi/ginkgo v1.12.1
 	github.com/onsi/gomega v1.10.0
 	github.com/pquerna/otp v1.3.0
-	github.com/shirou/gopsutil/v3 v3.22.8
+	github.com/shirou/gopsutil/v3 v3.22.9
 	github.com/sirupsen/logrus v1.9.0
 	github.com/spf13/cobra v1.5.0
 	github.com/stretchr/testify v1.8.0
